@@ -9,6 +9,7 @@ Clone or download this repository and run with a local server of open `index.htm
 ## Tech/framework used
 - Html
 - Css
+- JavaScript
 ## Demo
 [Go Live](https://super-dragon-e68a5c.netlify.app)
 
